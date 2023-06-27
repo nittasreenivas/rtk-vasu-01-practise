@@ -1,0 +1,172 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "username": "sreenivas.N",
+      "password": "1234",
+      "role": "employee",
+      "firstname": "Nitta",
+      "lastname": "Sreenivas",
+      "age": "22",
+      "id": 1
+    },
+    {
+      "username": "Jaswanth.A",
+      "password": "12345",
+      "role": "admin",
+      "firstname": "Alladi",
+      "lastname": "Jaswanth",
+      "age": "28",
+      "id": 2
+    },
+    {
+      "username": "Hemanth.K",
+      "password": "1234",
+      "role": "employee",
+      "firstname": "Konijerla",
+      "lastname": "Hemanth",
+      "age": "21",
+      "id": 3
+    },
+    {
+      "username": "Sai.N",
+      "password": "12345",
+      "role": "employee",
+      "firstname": "Nallapu",
+      "lastname": "sai",
+      "age": "25",
+      "id": 4
+    }
+  ],
+  "fooditems": [
+    {
+      "id": "l8a7ei50etbtcl6ukm",
+      "strMeal": "Baingan Bharta",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+      "price": 80,
+      "category": "veg"
+    },
+    {
+      "id": "l8a7f43evdvzgvtk25m",
+      "strMeal": "Chicken Handi",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+      "price": 240,
+      "category": "non-veg"
+    },
+    {
+      "id": "l8a7gyu9syntnzo5p8t",
+      "strMeal": "Dal fry",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+      "price": 120,
+      "category": "veg"
+    },
+    {
+      "id": "l8a7i9fujgere08eite",
+      "strMeal": "Kidney Bean Curry",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+      "price": 140,
+      "category": "veg"
+    },
+    {
+      "id": "l8a7j5x2rmk250lc0j9",
+      "strMeal": "Lamb Biryani",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+      "price": 320,
+      "category": "non-veg"
+    },
+    {
+      "id": "l8a7jnwrrvih1g4c85k",
+      "strMeal": "Lamb Rogan josh",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+      "price": 340,
+      "category": "non-veg"
+    },
+    {
+      "id": "l8a7k6oa84doefvixj",
+      "strMeal": "Matar Paneer",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+      "price": 180,
+      "category": "veg"
+    },
+    {
+      "id": "l8a7kzoy3owhp4y2ksb",
+      "strMeal": "Nutty Chicken Curry",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
+      "price": 260,
+      "category": "non-veg"
+    },
+    {
+      "id": "l8a7lxa2nvbuh3y089b",
+      "strMeal": "Recheado Masala Fish",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+      "price": 220,
+      "category": "non-veg"
+    },
+    {
+      "id": "l8a7rjk4eb83u5hv3oj",
+      "strMeal": "Smoked Haddock Kedgeree",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+      "price": 240,
+      "category": "non-veg"
+    },
+    {
+      "id": "l8a7s6wb31nrbpzo0yv",
+      "strMeal": "Tandoori chicken",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+      "price": 260,
+      "category": "non-veg"
+    },
+    {
+      "strMeal": "chicken65",
+      "strMealThumb": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style_2829-10159.jpg?w=1480&t=st=1673023952~exp=1673024552~hmac=36b479ae2b367f0b3d03ec76447f36ea8c97f2f4314b43a6758b6494085f3fd9",
+      "price": "200",
+      "category": "nonveg",
+      "id": "ndcPL4t"
+    },
+    {
+      "strMeal": "Dosa",
+      "strMealThumb": "https://img.freepik.com/free-photo/delicious-indian-dosa-arrangement_23-2149086024.jpg?w=1380&t=st=1673063141~exp=1673063741~hmac=24834694b00b68e280d1398073d07b92140a172842eb5cb048a0fb03f638867b",
+      "price": "45",
+      "category": "veg",
+      "id": "VoKH80d"
+    },
+    {
+      "strMeal": "puri",
+      "strMealThumb": "data:image/jpeg;base64,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",
+      "price": "45",
+      "category": "veg",
+      "id": "tfuZe8x"
+    },
+    {
+      "strMeal": "idle",
+      "strMealThumb": "https://www.indianfoodforever.com/iffwd/wp-content/uploads/idli-sambhar-500x375.jpg",
+      "price": "35",
+      "category": "veg",
+      "id": "5bd31xJ"
+    },
+    {
+      "strMeal": "vada",
+      "strMealThumb": "https://img.freepik.com/premium-photo/sambar-vada-medu-vada-popular-south-indian-food-served-with-green-red-coconut-chutney-moody-background-selective-focus_466689-59620.jpg?size=626&ext=jpg",
+      "price": "45",
+      "category": "veg",
+      "id": "Jo6pdfw"
+    }
+   
+  ]
+}
